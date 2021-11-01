@@ -1,0 +1,75 @@
+{
+    "version": 1,
+    "key": "core.device_registry",
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "15abce1fa2922c17e2d0947b1c6f009d"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "OS"
+                    ]
+                ],
+                "manufacturer": "Home Assistant",
+                "model": "Home Assistant Operating System",
+                "name": "Home Assistant Operating System",
+                "sw_version": null,
+                "entry_type": "service",
+                "id": "01eb1b8bd25553ba77eb1187fa1198be",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "15abce1fa2922c17e2d0947b1c6f009d"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "core_samba"
+                    ]
+                ],
+                "manufacturer": "Official add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "Samba share",
+                "sw_version": "9.5.1",
+                "entry_type": "service",
+                "id": "893031b933354c8a960b09aa96946fb4",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "15abce1fa2922c17e2d0947b1c6f009d"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "core_git_pull"
+                    ]
+                ],
+                "manufacturer": "Official add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "Git pull",
+                "sw_version": "7.13.1",
+                "entry_type": "service",
+                "id": "3d872c9442a2805447694bc3f192024c",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            }
+        ],
+        "deleted_devices": []
+    }
+}

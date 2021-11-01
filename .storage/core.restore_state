@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "key": "core.restore_state",
+    "data": [
+        {
+            "state": {
+                "entity_id": "person.admin",
+                "state": "unknown",
+                "attributes": {
+                    "editable": false,
+                    "id": "admin",
+                    "user_id": "a65e73b8d36942c3bc8f9be5f3d6e400",
+                    "friendly_name": "admin"
+                },
+                "last_changed": "2021-10-30T10:17:13.634918+00:00",
+                "last_updated": "2021-10-30T10:17:14.289959+00:00",
+                "context": {
+                    "id": "f3c71146e627d6aa2ed99c33e87c2a99",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-01T10:02:14.494705+00:00"
+        }
+    ]
+}

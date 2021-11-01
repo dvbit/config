@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "key": "core.config_entries",
+    "data": {
+        "entries": [
+            {
+                "entry_id": "15abce1fa2922c17e2d0947b1c6f009d",
+                "version": 1,
+                "domain": "hassio",
+                "title": "Supervisor",
+                "data": {},
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "system",
+                "unique_id": "hassio",
+                "disabled_by": null
+            }
+        ]
+    }
+}
