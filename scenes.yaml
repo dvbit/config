@@ -1,0 +1,4 @@
+- platform: state
+  entity_id: entity ID
+  from: "from state"
+  to: "to state"
